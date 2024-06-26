@@ -1,0 +1,14 @@
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\bin\Debug\net6.0\UserprojectusingBlazor.Shared.deps.json
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\bin\Debug\net6.0\UserprojectusingBlazor.Shared.runtimeconfig.json
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\bin\Debug\net6.0\UserprojectusingBlazor.Shared.dll
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\bin\Debug\net6.0\UserprojectusingBlazor.Shared.pdb
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.csproj.AssemblyReference.cache
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.AssemblyInfoInputs.cache
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.AssemblyInfo.cs
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.dll
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\refint\UserprojectusingBlazor.Shared.dll
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.pdb
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\UserprojectusingBlazor.Shared.genruntimeconfig.cache
+C:\vidhi\ASP.NET\UserprojectusingBlazor\UserprojectusingBlazor\Shared\obj\Debug\net6.0\ref\UserprojectusingBlazor.Shared.dll

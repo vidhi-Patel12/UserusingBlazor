@@ -1,0 +1,85 @@
+﻿<div class="sidebar" id="sidebar">
+    <div id="nav-bar">
+        <span id="toggle-button" class="oi oi-list-rich" ></span>
+        <div id="nav-content">
+            <ul>
+                <li class="nav-button">
+                    <a class="nav-link" href="" Match="NavLinkMatch.All">
+                        <span class="oi oi-home icon" style="color:white;"></span>
+                        <span class="link-text" style="color:white;">Home</span>
+                    </a>
+                </li>
+                <li class="nav-button">
+                    <a class="nav-link" href="counter">
+                        <span class="oi oi-plus icon" style="color:white;"></span>
+                        <span class="link-text" style="color:white;">Counter</span>
+                    </a>
+                </li>
+                <li class="nav-button">
+                    <a class="nav-link" href="fetchdata">
+                        <span class="oi oi-list-rich icon" style="color:white;"></span>
+                        <span class="link-text" style="color:white;">Fetch data</span>
+                    </a>
+                </li>
+                <li class="nav-button">
+                    <a class="nav-link" href="/user/add">
+                        <span class="oi oi-person icon" style="color:white;"></span>
+                        <span class="link-text" style="color:white;">Add User</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<style>
+    .sidebar {
+        width: 250px;
+        transition: width 0.3s ease;
+        background: #202020;
+        color: #ffffff;
+        overflow: hidden;
+        height: 100vh;
+    }
+
+    #nav-bar {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        margin-top: 10%;
+    }
+
+    #nav-content {
+        flex-grow: 1;
+        margin-top: 20%;
+    }
+    .span-navicon{
+        color: white;
+        margin-top: -32%;
+    }
+    .nav-button {
+        display: flex;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .icon {
+        margin-right: 10px;
+    }
+
+    .hidden-sidebar .sidebar {
+        width: 40px;
+    }
+
+    .hidden-sidebar #nav-bar{
+        margin-top: 70%;
+    }
+    .hidden-sidebar .link-text {
+        display: none;
+    }
+</style>
+<script>
+    document.getElementById("toggle-button").addEventListener("click", function () {
+        document.body.classList.toggle("hidden-sidebar");
+    });
+</script>
